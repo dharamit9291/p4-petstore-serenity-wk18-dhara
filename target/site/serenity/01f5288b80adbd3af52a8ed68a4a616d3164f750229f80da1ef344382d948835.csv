@@ -1,0 +1,8 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"User CRUD test","This will create a new user id : {0}, username : {1}, firstName : {2}, lastName : {3}, email : {4}, password : {5}, phone : {6}, userStatus : {7}","SUCCESS","2023-01-03T16:24:58.255Z[Europe/London]","0.0","11.47"
+"Pet CRUD test","This will add a pet information with id : {0}, category : {1}, name : {2}, photoUrls : {3}, tags : {4}, status : {5}","SUCCESS","2023-01-03T16:24:58.255Z[Europe/London]","0.0","10.4"
+"Pet CRUD test","Delete pet","SUCCESS","2023-01-03T16:25:08.808Z[Europe/London]","0.0","1.28"
+"User CRUD test","This will verify that new user has been created","SUCCESS","2023-01-03T16:25:09.776Z[Europe/London]","0.0","1.53"
+"User CRUD test","This will update a new user","SUCCESS","2023-01-03T16:25:11.305Z[Europe/London]","0.0","4.46"
+"Pet CRUD test","Update existing pet detail","SUCCESS","2023-01-03T16:25:11.692Z[Europe/London]","0.0","3.95"
+"User CRUD test","Deleting user and verifying user is delted","SUCCESS","2023-01-03T16:25:15.765Z[Europe/London]","0.0","2.74"

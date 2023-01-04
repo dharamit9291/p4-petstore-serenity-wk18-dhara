@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="com.petstore.testsuite.PetCRUDTest" skipped="0" tests="1" time="9.44" timestamp="2023-01-03T20:24:51.954Z[Europe/London]"><testcase classname="com.petstore.testsuite.PetCRUDTest" name="This will update pet information"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+io.restassured.internal.print.ResponsePrinter.print(ResponsePrinter.java:46)&#13;
+io.restassured.internal.ValidatableResponseOptionsImpl.logResponse(ValidatableResponseOptionsImpl.java:423)&#13;
+io.restassured.internal.ValidatableResponseOptionsImpl.logResponse(ValidatableResponseOptionsImpl.java:419)&#13;
+io.restassured.internal.ValidatableResponseOptionsImpl.logResponse(ValidatableResponseOptionsImpl.java:415)&#13;
+io.restassured.internal.ValidatableResponseOptionsImpl.all(ValidatableResponseOptionsImpl.java:371)&#13;
+com.petstore.petstoreinfo.PetSteps.updateDataForPet(PetSteps.java:75)&#13;
+com.petstore.testsuite.PetCRUDTest.test003(PetCRUDTest.java:90)&#13;
+</system-err></testcase></testsuite>

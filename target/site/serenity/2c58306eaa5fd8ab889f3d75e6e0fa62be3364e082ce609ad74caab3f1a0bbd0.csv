@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Pet CRUD test","This will add a pet information with id : {0}, category : {1}, name : {2}, photoUrls : {3}, tags : {4}, status : {5}","SUCCESS","2023-01-03T16:24:58.255Z[Europe/London]","0.0","10.4"
+"Pet CRUD test","Delete pet","SUCCESS","2023-01-03T16:25:08.808Z[Europe/London]","0.0","1.28"
+"Pet CRUD test","Update existing pet detail","SUCCESS","2023-01-03T16:25:11.692Z[Europe/London]","0.0","3.95"

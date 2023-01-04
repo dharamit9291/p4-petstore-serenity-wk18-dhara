@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"User CRUD test","This will create a new user id : {0}, username : {1}, firstName : {2}, lastName : {3}, email : {4}, password : {5}, phone : {6}, userStatus : {7}","SUCCESS","2023-01-03T16:24:58.255Z[Europe/London]","0.0","11.47"
+"User CRUD test","This will verify that new user has been created","SUCCESS","2023-01-03T16:25:09.776Z[Europe/London]","0.0","1.53"
+"User CRUD test","This will update a new user","SUCCESS","2023-01-03T16:25:11.305Z[Europe/London]","0.0","4.46"
+"User CRUD test","Deleting user and verifying user is delted","SUCCESS","2023-01-03T16:25:15.765Z[Europe/London]","0.0","2.74"
